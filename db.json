@@ -1,0 +1,89 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Michael Jordan",
+      "age": 50,
+      "address": "VIRGINIA"
+    },
+    {
+      "id": 2,
+      "name": "Diego Maradona",
+      "age": 60,
+      "address": "Buenos Aires"
+    },
+    {
+      "id": 3,
+      "name": "Pele",
+      "age": 80,
+      "address": "Brasil"
+    },
+    {
+      "id": 4,
+      "name": "Lionel Messi",
+      "age": 35,
+      "address": "Mendoza"
+    },
+    {
+      "id": 5,
+      "name": "Mike Tyson",
+      "age": 44,
+      "address": "Lima"
+    },
+    {
+      "id": 6,
+      "name": "Muhammad Ali",
+      "age": 85,
+      "address": "Georgia"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "Volante de futbol"
+    },
+    {
+      "id": 2,
+      "name": "Centrodelantero"
+    },
+    {
+      "id": 3,
+      "name": "Boxeador"
+    },
+    {
+      "id": 4,
+      "name": "Corredor"
+    },
+    {
+      "id": 5,
+      "name": "Alero"
+    }
+  ],
+  "competences": [
+    {
+      "id": 1,
+      "studentId": 1,
+      "skillId": 5
+    },
+    {
+      "id": 2,
+      "studentId": 1,
+      "skillId": 1
+    },
+    {
+      "id": 3,
+      "studentId": 1,
+      "skillId": 2
+    },
+    {
+      "id": 4,
+      "studentId": 4,
+      "skillId": 1
+    },
+    {
+      "id": 5,
+      "studentId": 5,
+      "skillId": 3
+    }
+  ]
+}
